@@ -1,0 +1,1 @@
+# These are the projects I did during the first month of my data science course
